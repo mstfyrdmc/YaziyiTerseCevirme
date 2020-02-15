@@ -1,0 +1,9 @@
+C:\Users\gulin.dasdan\Desktop\WFAYziyiTerseCevirme\WFAYziyiTerseCevirme\bin\Debug\WFAYziyiTerseCevirme.exe.config
+C:\Users\gulin.dasdan\Desktop\WFAYziyiTerseCevirme\WFAYziyiTerseCevirme\bin\Debug\WFAYziyiTerseCevirme.exe
+C:\Users\gulin.dasdan\Desktop\WFAYziyiTerseCevirme\WFAYziyiTerseCevirme\bin\Debug\WFAYziyiTerseCevirme.pdb
+C:\Users\gulin.dasdan\Desktop\WFAYziyiTerseCevirme\WFAYziyiTerseCevirme\obj\Debug\WFAYziyiTerseCevirme.csprojResolveAssemblyReference.cache
+C:\Users\gulin.dasdan\Desktop\WFAYziyiTerseCevirme\WFAYziyiTerseCevirme\obj\Debug\WFAYziyiTerseCevirme.Form1.resources
+C:\Users\gulin.dasdan\Desktop\WFAYziyiTerseCevirme\WFAYziyiTerseCevirme\obj\Debug\WFAYziyiTerseCevirme.Properties.Resources.resources
+C:\Users\gulin.dasdan\Desktop\WFAYziyiTerseCevirme\WFAYziyiTerseCevirme\obj\Debug\WFAYziyiTerseCevirme.csproj.GenerateResource.Cache
+C:\Users\gulin.dasdan\Desktop\WFAYziyiTerseCevirme\WFAYziyiTerseCevirme\obj\Debug\WFAYziyiTerseCevirme.exe
+C:\Users\gulin.dasdan\Desktop\WFAYziyiTerseCevirme\WFAYziyiTerseCevirme\obj\Debug\WFAYziyiTerseCevirme.pdb
